@@ -1,0 +1,4 @@
+--- EXPENSE RECEIPT ---
+1. Food | 70.0 | 70.0
+2. Travel | 65.0 | 65.0
+Total: 135.0
