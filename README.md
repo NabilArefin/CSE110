@@ -1,8 +1,7 @@
-# CSE110
+
 # Student Expense Tracker
 
-## 📌 Description
-A Java Swing-based desktop application for tracking student expenses and managing budgets.
+
 
 ---
 
@@ -103,3 +102,11 @@ java M
 
 ### Requirements
 - Java JDK 8 or higher
+
+
+
+
+
+
+
+
